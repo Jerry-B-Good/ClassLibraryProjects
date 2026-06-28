@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ShowCase\ShowCase.csproj" />
+    <ProjectReference Include="..\StringLibrary\StringLibrary.csproj" />
   </ItemGroup>
 
   <ItemGroup>

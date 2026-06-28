@@ -394,19 +394,6 @@
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "ShowCase/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "StringLibrary": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ShowCase.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShowCase.dll": {}
-        }
-      },
       "StringLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -927,11 +914,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "ShowCase/1.0.0": {
-      "type": "project",
-      "path": "../ShowCase/ShowCase.csproj",
-      "msbuildProject": "../ShowCase/ShowCase.csproj"
-    },
     "StringLibrary/1.0.0": {
       "type": "project",
       "path": "../StringLibrary/StringLibrary.csproj",
@@ -941,7 +923,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.NET.Test.Sdk >= 17.14.1",
-      "ShowCase >= 1.0.0",
+      "StringLibrary >= 1.0.0",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
       "xunit.runner.visualstudio >= 3.1.4"
@@ -983,8 +965,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj": {
-              "projectPath": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj"
+            "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj"
             }
           }
         }
@@ -1316,13 +1298,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }
