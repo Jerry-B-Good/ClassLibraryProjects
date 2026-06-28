@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D57E9EC6-C2E2-466F-9995-AFD6D45C91EB}|ShowCase\\ShowCase.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D57E9EC6-C2E2-466F-9995-AFD6D45C91EB}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F40C78E6-0247-25BF-C0D8-044940E9DD06}|StringLibraryTest\\StringLibraryTest.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classlibraryprojects\\stringlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40C78E6-0247-25BF-C0D8-044940E9DD06}|StringLibraryTest\\StringLibraryTest.csproj|solutionrelative:stringlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B281B11B-60D8-4449-A1D7-765513E254A9}|StringLibrary\\StringLibrary.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B281B11B-60D8-4449-A1D7-765513E254A9}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830D02CE-428D-0E91-D34F-09A3A32B102A}|ShowCase\\ShowCase.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830D02CE-428D-0E91-D34F-09A3A32B102A}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDD3373-5B39-2BBF-203C-424524F7B397}|StringLibrary\\StringLibrary.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDD3373-5B39-2BBF-203C-424524F7B397}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\StringLibraryTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StringLibraryTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\StringLibraryTest\\UnitTest1.cs",
+              "RelativeToolTip": "StringLibraryTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T01:45:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeDocumentMoniker": "ShowCase\\Program.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "ShowCase\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T01:36:07.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T01:36:07.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
@@ -67,8 +83,7 @@
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T01:29:36.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T01:29:36.083Z"
             }
           ]
         }
