@@ -1,4 +1,5 @@
-﻿using UtilityLibraries;
+﻿// Statement for the class library's namespace
+using UtilityLibraries;
 
 
 namespace StringLibraryTest
@@ -8,7 +9,11 @@ namespace StringLibraryTest
         [Fact]
         public void Test1()
         {
+            // Arrange
 
+            // Act
+
+            // Assert
         }
     }
 }
