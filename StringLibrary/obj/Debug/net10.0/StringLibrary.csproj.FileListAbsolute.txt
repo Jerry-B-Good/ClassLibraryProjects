@@ -1,0 +1,11 @@
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\bin\Debug\net10.0\StringLibrary.deps.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\bin\Debug\net10.0\StringLibrary.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\bin\Debug\net10.0\StringLibrary.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.AssemblyInfo.cs
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\refint\StringLibrary.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\StringLibrary.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\ClassLibraryProjects\StringLibrary\obj\Debug\net10.0\ref\StringLibrary.dll
